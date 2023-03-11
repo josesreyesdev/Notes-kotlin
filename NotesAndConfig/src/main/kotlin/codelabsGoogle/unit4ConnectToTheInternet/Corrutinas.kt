@@ -1,7 +1,5 @@
 package codelabsGoogle.unit4ConnectToTheInternet
 
-import kotlin.coroutines.*
-
 fun main() {
     /* Corrutinas: Permite realizar varias tareas a la vez
     * ==> Permite almacenar el estado, representado por las "Continuations"
@@ -30,7 +28,7 @@ fun main() {
     */
 }
 
-/* La funcion launch() se define de la sigueinte manera */
+/* La funcion launch() se define de la siguiente manera */
 /*fun CoroutineScope.launch {
     context: CoroutineContext = EmptyCoroutineContext,
     start: CoroutineStart = CoroutineStart.DEFAULT,

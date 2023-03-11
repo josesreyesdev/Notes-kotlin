@@ -68,3 +68,11 @@ OTROS TIPOS DE INTENTS => https://developer.android.com/guide/components/intents
     * CATEGORY_APP_GALLERY => Inicia la app de fotos(galeria)
     * ACTION_SET_ALARM => Inicia la app de alarma
     * ACTION_DIAL => Inicia una llamada teléfonica
+
+
+
+
+/** Books */
+1) Robert Fishier --- El caballero de la armadura oxidada   --- Novela del genero de autoayuda con elementos de ficción.
+2) Vicente Leñero --- La gota de agua                       --- 1957 - Ingeniero civil de servicio social
+3) Wayne W. Dyer  --- Construye tu destino                  --- Manifiesta tu yo íntimo y realiza tus aspiraciones
